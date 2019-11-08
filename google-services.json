@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131310999734",
+    "firebase_url": "https://facehugger-30492.firebaseio.com",
+    "project_id": "facehugger-30492",
+    "storage_bucket": "facehugger-30492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131310999734:android:3363f88a7cc2dff60aee17",
+        "android_client_info": {
+          "package_name": "fr.coppernic.facehugger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131310999734-l7upkqbbtkd75pmfkrltoeg7idprpv3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_MX8wgv0brvMaPq8h2LBw4UkQWYNQvE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131310999734-l7upkqbbtkd75pmfkrltoeg7idprpv3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
